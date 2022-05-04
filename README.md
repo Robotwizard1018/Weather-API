@@ -1,1 +1,1 @@
-# Weather-App---API-Basics
+# Weather app for api basics 
